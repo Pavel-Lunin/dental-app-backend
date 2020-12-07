@@ -1,6 +1,6 @@
 Серверная часть для мобильного приложения разработанного по курсу - [Разработка стоматологического приложения на React Native](https://www.youtube.com/watch?v=M8V5Nb0ytiI&list=PL0FGkDGJQjJFXRMxdCOLrnaQwlmpWrFTG)
 
-[Клиентская часть на React Native](https://github.com/Archakov06/dental-mobile)
+[Клиентская часть на React Native](https://github.com/Pavel-Lunin/react-native-dental-app)
 
 **Stack:**
 
